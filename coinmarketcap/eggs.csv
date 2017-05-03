@@ -1,0 +1,206 @@
+Name,Rank,Volume,Price,Vol/Price,Vol/Rank,URL1
+Bitcoin,1,420591000.0,1458.20000000,288431,420591000,http://coinmarketcap.com/currencies/bitcoin
+Ethereum,2,143373000.0,79.22230000,1809755,71686500,http://coinmarketcap.com/currencies/ethereum
+Ripple,3,28315400.0,0.05750180,492426324,9438466,http://coinmarketcap.com/currencies/ripple
+Litecoin,4,89715900.0,18.22280000,4923277,22428975,http://coinmarketcap.com/currencies/litecoin
+Dash,5,15525600.0,88.43620000,175557,3105120,http://coinmarketcap.com/currencies/dash
+Ethereum Classic,6,36303900.0,6.69327000,5423940,6050650,http://coinmarketcap.com/currencies/ethereum-classic
+NEM,7,3264020.0,0.05270220,61933277,466288,http://coinmarketcap.com/currencies/nem
+Monero,8,8034800.0,23.87980000,336468,1004350,http://coinmarketcap.com/currencies/monero
+Golem,9,11152400.0,0.22707000,49114370,1239155,http://coinmarketcap.com/currencies/golem-network-tokens
+Augur,10,3960080.0,16.46750000,240478,396008,http://coinmarketcap.com/currencies/augur
+MaidSafeCoin,11,1506910.0,0.25741600,5853987,136991,http://coinmarketcap.com/currencies/maidsafecoin
+Zcash,12,8022050.0,92.38580000,86832,668504,http://coinmarketcap.com/currencies/zcash
+Stratis,13,4582640.0,1.03880000,4411474,352510,http://coinmarketcap.com/currencies/stratis
+Gnosis,14,10849600.0,78.60870000,138020,774971,http://coinmarketcap.com/currencies/gnosis-gno
+PIVX,15,689233.0,1.61255000,427418,45948,http://coinmarketcap.com/currencies/pivx
+Dogecoin,16,4446240.0,0.00066351,6701069460,277890,http://coinmarketcap.com/currencies/dogecoin
+Decred,17,1454850.0,14.77100000,98493,85579,http://coinmarketcap.com/currencies/decred
+Factom,18,2169930.0,7.72664000,280837,120551,http://coinmarketcap.com/currencies/factom
+Steem,19,605249.0,0.27802400,2176966,31855,http://coinmarketcap.com/currencies/steem
+Waves,20,338778.0,0.65275300,518998,16938,http://coinmarketcap.com/currencies/waves
+DigixDAO,21,158789.0,30.88080000,5141,7561,http://coinmarketcap.com/currencies/digixdao
+SingularDTV,22,229773.0,0.10269500,2237431,10444,http://coinmarketcap.com/currencies/singulardtv
+Lisk,23,1279250.0,0.55520500,2304103,55619,http://coinmarketcap.com/currencies/lisk
+Tether,24,21053900.0,0.93350200,22553674,877245,http://coinmarketcap.com/currencies/tether
+GameCredits,25,939935.0,0.88214600,1065509,37597,http://coinmarketcap.com/currencies/gamecredits
+iExec RLC,26,456213.0,0.70090600,650890,17546,http://coinmarketcap.com/currencies/rlc
+Round,27,92483.3,0.06154960,1502581,3425,http://coinmarketcap.com/currencies/round
+Ardor,28,515182.0,0.05021940,10258625,18399,http://coinmarketcap.com/currencies/ardor
+Stellar Lumens,29,2797260.0,0.00519699,538246177,96457,http://coinmarketcap.com/currencies/stellar
+BitConnect,30,575870.0,7.68870000,74898,19195,http://coinmarketcap.com/currencies/bitconnect
+Iconomi,31,270257.0,0.52087500,518851,8717,http://coinmarketcap.com/currencies/iconomi
+BitShares,32,1181690.0,0.01569730,75279825,36927,http://coinmarketcap.com/currencies/bitshares
+Bytecoin,33,74977.2,0.00021875,342746646,2272,http://coinmarketcap.com/currencies/bytecoin-bcn
+Byteball,34,52753.6,221.06000000,238,1551,http://coinmarketcap.com/currencies/byteball
+Siacoin,35,1391660.0,0.00119973,1159977661,39761,http://coinmarketcap.com/currencies/siacoin
+Peercoin,36,757721.0,1.27557000,594025,21047,http://coinmarketcap.com/currencies/peercoin
+First Blood,37,364241.0,0.35241000,1033571,9844,http://coinmarketcap.com/currencies/first-blood
+Nxt,38,1137970.0,0.02827870,40241241,29946,http://coinmarketcap.com/currencies/nxt
+SysCoin,39,1039810.0,0.05323480,19532523,26661,http://coinmarketcap.com/currencies/syscoin
+Nexus,40,188450.0,0.50264800,374914,4711,http://coinmarketcap.com/currencies/nexus
+Komodo,41,177747.0,0.24362500,729592,4335,http://coinmarketcap.com/currencies/komodo
+Melon,42,234885.0,40.31300000,5826,5592,http://coinmarketcap.com/currencies/melon
+Emercoin,43,416580.0,0.58948400,706685,9687,http://coinmarketcap.com/currencies/emercoin
+Storjcoin X,44,261638.0,0.43719300,598449,5946,http://coinmarketcap.com/currencies/storjcoin-x
+Ark,45,128667.0,0.21594000,595846,2859,http://coinmarketcap.com/currencies/ark
+Namecoin,46,757217.0,1.26073000,600617,16461,http://coinmarketcap.com/currencies/namecoin
+Xaurum,47,47058.8,0.17728600,265440,1001,http://coinmarketcap.com/currencies/xaurum
+Lykke,48,116974.0,0.13691600,854348,2436,http://coinmarketcap.com/currencies/lykke
+WeTrust,49,349630.0,0.19161500,1824648,7135,http://coinmarketcap.com/currencies/trust
+AntShares,50,637144.0,0.33454900,1904486,12742,http://coinmarketcap.com/currencies/antshares
+NAV Coin,51,463126.0,0.23863300,1940745,9080,http://coinmarketcap.com/currencies/nav-coin
+YbCoin,52,475857.0,4.75827000,100006,9151,http://coinmarketcap.com/currencies/ybcoin
+ZCoin,53,880947.0,6.89786000,127713,16621,http://coinmarketcap.com/currencies/zcoin
+BitcoinDark,54,139157.0,10.79340000,12892,2576,http://coinmarketcap.com/currencies/bitcoindark
+Gulden,55,29562.6,0.03956480,747194,537,http://coinmarketcap.com/currencies/gulden
+Swarm City,56,213890.0,2.13021000,100407,3819,http://coinmarketcap.com/currencies/swarm-city
+Bitcrystals,57,92518.4,0.31338900,295219,1623,http://coinmarketcap.com/currencies/bitcrystals
+Creditbit,58,330241.0,0.98080400,336704,5693,http://coinmarketcap.com/currencies/creditbit
+Crown,60,31865.8,0.87859100,36269,531,http://coinmarketcap.com/currencies/crown
+Counterparty,61,116412.0,4.44948000,26163,1908,http://coinmarketcap.com/currencies/counterparty
+Wings,62,296708.0,0.12679400,2340079,4785,http://coinmarketcap.com/currencies/wings
+BlackCoin,63,345833.0,0.14289200,2420240,5489,http://coinmarketcap.com/currencies/blackcoin
+BitBay,64,148650.0,0.00988711,15034727,2322,http://coinmarketcap.com/currencies/bitbay
+Ubiq,65,113211.0,0.26584400,425855,1741,http://coinmarketcap.com/currencies/ubiq
+Guppy,66,264767.0,0.15776700,1678215,4011,http://coinmarketcap.com/currencies/guppy
+PotCoin,67,187734.0,0.04286220,4379943,2802,http://coinmarketcap.com/currencies/potcoin
+Rubycoin,68,14747.6,0.38032900,38775,216,http://coinmarketcap.com/currencies/rubycoin
+Edgeless,69,155168.0,0.12103000,1282062,2248,http://coinmarketcap.com/currencies/edgeless
+I/O Coin,70,97629.3,0.54538100,179011,1394,http://coinmarketcap.com/currencies/iocoin
+Synereo,71,222856.0,0.10674000,2087839,3138,http://coinmarketcap.com/currencies/synereo
+DigiByte,72,524811.0,0.00107787,486896378,7289,http://coinmarketcap.com/currencies/digibyte
+Chronobank,73,400874.0,12.11840000,33079,5491,http://coinmarketcap.com/currencies/chronobank
+vSlice,74,248132.0,0.22155100,1119976,3353,http://coinmarketcap.com/currencies/vslice
+Bankcoin,75,15589.9,1.71512000,9089,207,http://coinmarketcap.com/currencies/bankcoin
+Nexium,76,106809.0,0.10888600,980925,1405,http://coinmarketcap.com/currencies/nexium
+Novacoin,77,441576.0,4.08476000,108103,5734,http://coinmarketcap.com/currencies/novacoin
+Expanse,78,176212.0,0.97541700,180652,2259,http://coinmarketcap.com/currencies/expanse
+MonaCoin,79,14167.5,0.13405600,105683,179,http://coinmarketcap.com/currencies/monacoin
+Blocknet,80,21737.1,1.68546000,12896,271,http://coinmarketcap.com/currencies/blocknet
+ZClassic,82,104059.0,5.07330000,20511,1269,http://coinmarketcap.com/currencies/zclassic
+PoSW Coin,84,95878.7,0.13969800,686328,1141,http://coinmarketcap.com/currencies/posw-coin
+Lunyr,86,136432.0,2.32247000,58744,1586,http://coinmarketcap.com/currencies/lunyr
+GridCoin,87,24384.7,0.01366930,1783902,280,http://coinmarketcap.com/currencies/gridcoin
+Vertcoin,88,643767.0,0.15219300,4229938,7315,http://coinmarketcap.com/currencies/vertcoin
+LBRY Credits,89,162713.0,0.07747640,2100162,1828,http://coinmarketcap.com/currencies/library-credit
+MonetaryUnit,90,20003.4,0.04161930,480627,222,http://coinmarketcap.com/currencies/monetaryunit
+Primecoin,91,297854.0,0.25706100,1158689,3273,http://coinmarketcap.com/currencies/primecoin
+Radium,92,40062.8,1.51306000,26477,435,http://coinmarketcap.com/currencies/radium
+Global Currency Reserve,93,33009.0,0.04732110,697553,354,http://coinmarketcap.com/currencies/global-currency-reserve
+Bitcoin Plus,94,102975.0,49.53930000,2078,1095,http://coinmarketcap.com/currencies/bitcoin-plus
+Viacoin,95,131241.0,0.21018600,624404,1381,http://coinmarketcap.com/currencies/viacoin
+Clams,96,267982.0,2.09339000,128013,2791,http://coinmarketcap.com/currencies/clams
+Burst,97,307735.0,0.00249205,123486687,3172,http://coinmarketcap.com/currencies/burst
+Omni,98,29335.5,7.80230000,3759,299,http://coinmarketcap.com/currencies/omni
+BelaCoin,100,224691.0,0.12358600,1818094,2246,http://coinmarketcap.com/currencies/belacoin
+VPNCoin,102,497641.0,0.01029990,48315129,4878,http://coinmarketcap.com/currencies/vpncoin
+Darcrus,104,36835.1,0.26680200,138061,354,http://coinmarketcap.com/currencies/darcrus
+NautilusCoin,106,86929.9,0.21419100,405852,820,http://coinmarketcap.com/currencies/nautiluscoin
+E-Dinar Coin,107,174749.0,0.04111400,4250352,1633,http://coinmarketcap.com/currencies/e-dinar-coin
+Shift,108,46418.9,0.31878200,145613,429,http://coinmarketcap.com/currencies/shift
+Energycoin,110,26180.1,0.02770730,944880,238,http://coinmarketcap.com/currencies/energycoin
+Feathercoin,111,45870.9,0.02069530,2216488,413,http://coinmarketcap.com/currencies/feathercoin
+Pascal Coin,112,71864.5,0.36242600,198287,641,http://coinmarketcap.com/currencies/pascal-coin
+PinkCoin,113,943262.0,0.01053760,89513931,8347,http://coinmarketcap.com/currencies/pinkcoin
+Incent,114,88036.4,0.14015900,628118,772,http://coinmarketcap.com/currencies/incent
+ShadowCash,115,19848.1,0.47496900,41788,172,http://coinmarketcap.com/currencies/shadowcash
+HEAT,116,10469.7,0.12238700,85545,90,http://coinmarketcap.com/currencies/heat-ledger
+Asch,117,12474.3,0.04134470,301714,106,http://coinmarketcap.com/currencies/asch
+MergeCoin,118,1436030.0,0.09066820,15838298,12169,http://coinmarketcap.com/currencies/mergecoin
+LoMoCoin,121,140885.0,0.01458460,9659846,1164,http://coinmarketcap.com/currencies/lomocoin
+Megacoin,122,407347.0,0.09128760,4462238,3338,http://coinmarketcap.com/currencies/megacoin
+NeosCoin,123,19948.8,0.87865400,22703,162,http://coinmarketcap.com/currencies/neoscoin
+VeriCoin,124,50556.0,0.09156940,552105,407,http://coinmarketcap.com/currencies/vericoin
+Gambit,125,16591.4,2.13892000,7756,132,http://coinmarketcap.com/currencies/gambit
+Pepe Cash,126,29100.3,0.00388741,7485781,230,http://coinmarketcap.com/currencies/pepe-cash
+Digitalcoin,127,299247.0,0.07890640,3792430,2356,http://coinmarketcap.com/currencies/digitalcoin
+DubaiCoin,129,37543.9,3.03161000,12384,291,http://coinmarketcap.com/currencies/dubaicoin-dbix
+FirstCoin,130,31271.5,1.13445000,27565,240,http://coinmarketcap.com/currencies/firstcoin
+BitSend,131,25501.9,0.16838800,151447,194,http://coinmarketcap.com/currencies/bitsend
+Einsteinium,133,70775.1,0.01102210,6421199,532,http://coinmarketcap.com/currencies/einsteinium
+EarthCoin,134,313269.0,0.00024049,1302627967,2337,http://coinmarketcap.com/currencies/earthcoin
+Unobtanium,136,20922.1,11.19220000,1869,153,http://coinmarketcap.com/currencies/unobtanium
+FlorinCoin,137,20417.2,0.01758750,1160892,149,http://coinmarketcap.com/currencies/florincoin
+GoldCoin,138,13012.8,0.05263800,247213,94,http://coinmarketcap.com/currencies/goldcoin
+Auroracoin,141,13137.8,0.23514600,55870,93,http://coinmarketcap.com/currencies/auroracoin
+Riecoin,142,221660.0,0.05791930,3827049,1560,http://coinmarketcap.com/currencies/riecoin
+Yocoin,144,48835.6,0.01782300,2740032,339,http://coinmarketcap.com/currencies/yocoin
+DNotes,146,22024.2,0.01559990,1411816,150,http://coinmarketcap.com/currencies/dnotes
+ChainCoin,148,15952.0,0.11675000,136633,107,http://coinmarketcap.com/currencies/chaincoin
+SecureCoin,150,296222.0,0.21687800,1365846,1974,http://coinmarketcap.com/currencies/securecoin
+TagCoin,152,270436.0,0.29739200,909358,1779,http://coinmarketcap.com/currencies/tagcoin
+WorldCoin,153,10213.7,0.01418200,720187,66,http://coinmarketcap.com/currencies/worldcoin
+Vcash,154,13323.8,0.10487900,127039,86,http://coinmarketcap.com/currencies/vcash
+TransferCoin,155,20155.7,0.26704900,75475,130,http://coinmarketcap.com/currencies/transfercoin
+ZcCoin,156,249045.0,0.02562760,9717843,1596,http://coinmarketcap.com/currencies/zccoin
+OBITS,159,42243.2,0.15619000,270460,265,http://coinmarketcap.com/currencies/obits
+FoldingCoin,160,41929.5,0.00314965,13312431,262,http://coinmarketcap.com/currencies/foldingcoin
+BoostCoin,162,194854.0,0.12514100,1557075,1202,http://coinmarketcap.com/currencies/boostcoin
+Bitmark,163,42082.6,0.37733800,111524,258,http://coinmarketcap.com/currencies/bitmark
+XtraBYtes,166,45469.1,0.00220226,20646563,273,http://coinmarketcap.com/currencies/xtrabytes
+Steem Dollars,167,50965.3,1.27334000,40024,305,http://coinmarketcap.com/currencies/steem-dollars
+Boolberry,168,26952.1,0.14176900,190112,160,http://coinmarketcap.com/currencies/boolberry
+Centurion,170,120421.0,0.02861040,4208993,708,http://coinmarketcap.com/currencies/centurion
+Bata,171,12999.5,0.26006500,49985,76,http://coinmarketcap.com/currencies/bata
+InsaneCoin,172,21979.1,0.06917100,317750,127,http://coinmarketcap.com/currencies/insanecoin
+DigitalNote,173,33989.3,0.00018071,188091706,196,http://coinmarketcap.com/currencies/digitalnote
+OKCash,174,27180.3,0.01717410,1582633,156,http://coinmarketcap.com/currencies/okcash
+Atmos,177,20207.2,0.01093600,1847768,114,http://coinmarketcap.com/currencies/atmos
+Infinitecoin,181,26700.1,0.00001099,2428827435,147,http://coinmarketcap.com/currencies/infinitecoin
+Mercury,182,15393.2,0.00988744,1556843,84,http://coinmarketcap.com/currencies/mercury
+Cryptonite,185,45203.1,0.00289800,15598033,244,http://coinmarketcap.com/currencies/cryptonite
+Renos,186,42782.6,0.02665710,1604923,230,http://coinmarketcap.com/currencies/renos
+bitCNY,187,78388.3,0.14540200,539114,419,http://coinmarketcap.com/currencies/bitcny
+iCash,188,17320.5,0.00389960,4441609,92,http://coinmarketcap.com/currencies/icash
+HunterCoin,189,79483.9,0.04907110,1619770,420,http://coinmarketcap.com/currencies/huntercoin
+Musicoin,195,16452.6,0.00612285,2687081,84,http://coinmarketcap.com/currencies/musicoin
+Spectrecoin,197,19182.8,0.03379320,567652,97,http://coinmarketcap.com/currencies/spectrecoin
+bitUSD,198,48547.2,1.01249000,47948,245,http://coinmarketcap.com/currencies/bitusd
+BitBean,200,10055.4,0.00034990,28737842,50,http://coinmarketcap.com/currencies/bitbean
+Veltor,205,31925.9,1.07907000,29586,155,http://coinmarketcap.com/currencies/veltor
+EvergreenCoin,207,16533.5,0.04295670,384887,79,http://coinmarketcap.com/currencies/evergreencoin
+Synergy,209,37206.6,0.20454200,181902,178,http://coinmarketcap.com/currencies/synergy
+Bitland,212,12443.8,0.01785610,696893,58,http://coinmarketcap.com/currencies/bitland
+HiCoin,216,40638.6,0.00272206,14929354,188,http://coinmarketcap.com/currencies/hicoin
+Myriad,220,14875.0,0.00031531,47175944,67,http://coinmarketcap.com/currencies/myriad
+Inpay,221,33042.3,0.04530630,729309,149,http://coinmarketcap.com/currencies/inpay
+MediterraneanCoin,222,24784.5,0.00904084,2741393,111,http://coinmarketcap.com/currencies/mediterraneancoin
+Qora,224,19635.4,0.00004375,448815298,87,http://coinmarketcap.com/currencies/qora
+Magi,228,13502.0,0.05990550,225388,59,http://coinmarketcap.com/currencies/magi
+Circuits of Value,229,13139.3,0.00100616,13058857,57,http://coinmarketcap.com/currencies/circuits-of-value
+Voxels,231,32891.9,0.01267450,2595124,142,http://coinmarketcap.com/currencies/voxels
+CannabisCoin,234,10558.0,0.00492155,2145259,45,http://coinmarketcap.com/currencies/cannabiscoin
+Capricoin,240,29796.1,0.37512600,79429,124,http://coinmarketcap.com/currencies/capricoin
+Mintcoin,241,12483.0,0.00001459,855773713,51,http://coinmarketcap.com/currencies/mintcoin
+Startcoin,245,11708.2,0.00702385,1666920,47,http://coinmarketcap.com/currencies/startcoin
+Unitus,247,12983.1,0.00661840,1961667,52,http://coinmarketcap.com/currencies/unitus
+ParkByte,255,11482.4,0.05208740,220444,45,http://coinmarketcap.com/currencies/parkbyte
+Quatloo,262,15818.2,0.02926770,540466,60,http://coinmarketcap.com/currencies/quatloo
+Karbowanec,287,11942.2,0.04018370,297190,41,http://coinmarketcap.com/currencies/karbowanec
+UnbreakableCoin,296,45686.1,0.05075030,900213,154,http://coinmarketcap.com/currencies/unbreakablecoin
+CrevaCoin,311,12916.4,0.00192630,6705289,41,http://coinmarketcap.com/currencies/crevacoin
+bitEUR,318,32429.7,1.08660000,29845,101,http://coinmarketcap.com/currencies/biteur
+Gapcoin,327,13296.1,0.00406836,3268171,40,http://coinmarketcap.com/currencies/gapcoin
+Ebittree Coin,351,15471.2,0.00787469,1964674,44,http://coinmarketcap.com/currencies/ebittree-coin
+Malcoin,650,34529.3,18.85620000,1831,53,http://coinmarketcap.com/currencies/malcoin
+Fargocoin,654,466577.0,6.74956000,69127,713,http://coinmarketcap.com/currencies/fargocoin
+Internet of People,656,109076.0,2.76966000,39382,166,http://coinmarketcap.com/currencies/internet-of-people
+Pluton,657,67322.7,1.98716000,33878,102,http://coinmarketcap.com/currencies/pluton
+TaaS (Pre-Launch),663,99726.6,0.99993500,99733,150,http://coinmarketcap.com/currencies/taas
+DynamicCoin,667,411833.0,0.69945400,588792,617,http://coinmarketcap.com/currencies/dynamiccoin
+Fazzcoin,668,13240.4,0.69333900,19096,19,http://coinmarketcap.com/currencies/fazzcoin
+Databits,671,42832.4,0.45863300,93391,63,http://coinmarketcap.com/currencies/databits
+LEOcoin,672,179344.0,0.42100300,425992,266,http://coinmarketcap.com/currencies/leocoin
+Zilbercoin,673,187689.0,0.37678000,498139,278,http://coinmarketcap.com/currencies/zilbercoin
+ClubCoin,674,92448.6,0.28076000,329279,137,http://coinmarketcap.com/currencies/clubcoin
+DeusCoin,677,10868.2,0.15385500,70639,16,http://coinmarketcap.com/currencies/deuscoin
+EB3 Coin,678,14132.8,0.15314000,92286,20,http://coinmarketcap.com/currencies/eb3-coin
+Golos Gold,679,37767.2,0.14481400,260797,55,http://coinmarketcap.com/currencies/golos-gold
+WA Space,680,32393.7,0.13798900,234755,47,http://coinmarketcap.com/currencies/wa-space
+Wowecoin,684,21782.0,0.11000000,198018,31,http://coinmarketcap.com/currencies/wowecoin
+Lepaoquan,704,224806.0,0.01073510,20941211,319,http://coinmarketcap.com/currencies/lepaoquan
+BagCoin,717,32252.1,0.00292024,11044331,44,http://coinmarketcap.com/currencies/bagcoin
+WeAreSatoshi,743,15251.3,0.00112281,13583152,20,http://coinmarketcap.com/currencies/wearesatoshi
+KashhCoin,752,43734.8,0.00076001,57545259,58,http://coinmarketcap.com/currencies/kashhcoin
+T-coin,757,71921.8,0.00061244,117434083,95,http://coinmarketcap.com/currencies/t-coin
