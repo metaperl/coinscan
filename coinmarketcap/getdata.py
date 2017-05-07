@@ -23,14 +23,14 @@ with open('eggs.csv', 'wb') as csvfile:
     spamwriter = csv.writer(csvfile)
 
     spamwriter.writerow(
-        "Name Rank Volume Price Vol/Price Vol/Rank URL1".split())
+        "Name Rank Volume Price(BTC) Vol/Price Vol/Rank URL1".split())
 
     for row in aod:
         row = Box(row)
 
         # print row['24h_volume_usd']
         vol = tofloat(row['24h_volume_usd'])
-        price = tofloat(row.price_usd)
+        price = tofloat(row.price_btc)
         rank = int(row.rank)
 
         if not (vol and price):
