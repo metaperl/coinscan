@@ -19,7 +19,7 @@ def tofloat(s):
     else:
         return 0.0
 
-with open('eggs.csv', 'wb') as csvfile:
+with open('vr.csv', 'wb') as csvfile:
     spamwriter = csv.writer(csvfile)
 
     spamwriter.writerow(
